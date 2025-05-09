@@ -15,4 +15,4 @@
 微信: ZKL13169070960 | 邮箱: z2132085753@outlook.com
 
 [![GitHub](https://img.shields.io/badge/GitHub-区块链项目-2396ED)](https://github.com/zhengcookie/Ruoyi-MediTrust) 
-把👋 **你好！我是郑凯立 | Java全栈开发者 & 区块链技术探索者**  
+
